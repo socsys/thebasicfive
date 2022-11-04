@@ -1,7 +1,7 @@
 #!/bin/bash
 sudoPW="snuc"
 
-server="35.242.187.72"
+server="35.242.187.72"		#Google Server London
 ping_duration=600
 hping_duration=300
 hping_port=4040
