@@ -86,6 +86,13 @@ iperf3 -c $server -i1 -t $iperf_duration -R >> ./$dirname/"iperf_tcp_illinois_"$
 
 echo $sudoPW | sudo -S kill $tcpdump_pid
 
+
+echo "ship the data to the server ...."
+zip -r $dirname".zip" $dirname
+scp -r $dirname".zip" ubuntu@starsurrey.duckdns.org:/home/ubuntu/results_ed
+echo $sudoPW | rm -r $dirname".zip"
+
 echo "......................................................................"
 current_time=$(date -u "+%Y.%m.%d-%H.%M.%S")
 echo "..... We are done now .. See you next hour. Time now is : $current_time"
+
