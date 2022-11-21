@@ -42,7 +42,7 @@ current_time=$(date -u "+%Y.%m.%d-%H.%M.%S")
 echo "5. Start iperf TCP CUBIC at current Time: ".$current_time
 echo ".... Send request to the server to change the congestion control "
 
-while [ "$output_cc_change_request" != "cubic" ]; do output_cc_change_request="$(python2.7 change_cc_client.py cubic)"; done
+while [ "$output_cc_change_request" != "cubic" ]; do output_cc_change_request="$(python2.7 /home/ubuntu/kassem/thebasicfive/change_cc_client.py cubic)"; done
 
 echo ".... The congestion control on the server side is successfully change."$output_cc_change_request
 
@@ -58,7 +58,7 @@ current_time=$(date -u "+%Y.%m.%d-%H.%M.%S")
 echo "6. Start iperf TCP BBR at current Time:".$current_time
 echo ".... Send request to the server to change the congestion control "
 
-while [ "$output_cc_change_request" != "bbr" ]; do output_cc_change_request="$(python2.7 change_cc_client.py bbr)"; done
+while [ "$output_cc_change_request" != "bbr" ]; do output_cc_change_request="$(python2.7 /home/ubuntu/kassem/thebasicfive/change_cc_client.py bbr)"; done
 
 echo ".... The congestion control on the server side is successfully change."$output_cc_change_request
 
@@ -74,7 +74,7 @@ current_time=$(date -u "+%Y.%m.%d-%H.%M.%S")
 echo "7. Start iperf TCP Illinois at current Time:".$current_time
 echo ".... Send request to the server to change the congestion control "
 
-while [ "$output_cc_change_request" != "illinois" ]; do output_cc_change_request="$(python2.7 change_cc_client.py illinois)"; done
+while [ "$output_cc_change_request" != "illinois" ]; do output_cc_change_request="$(python2.7 /home/ubuntu/kassem/thebasicfive/change_cc_client.py illinois)"; done
 
 echo ".... The congestion control on the server side is successfully change."$output_cc_change_request
 

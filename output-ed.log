@@ -1,0 +1,30 @@
+1. Start ping at Current Time : 2022.11.21-14.00.01
+2. Start hping at Current Time : 2022.11.21-14.00.01
+3. Start Traceroute at Current Time : 2022.11.21-14.00.01
+4. Start iperf UDP at current Time:.2022.11.21-14.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.21-14.05.02
+.... Send request to the server to change the congestion control 
+1. Start ping at Current Time : 2022.11.21-15.00.01
+2. Start hping at Current Time : 2022.11.21-15.00.01
+3. Start Traceroute at Current Time : 2022.11.21-15.00.01
+4. Start iperf UDP at current Time:.2022.11.21-15.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.21-15.05.02
+.... Send request to the server to change the congestion control 
+1. Start ping at Current Time : 2022.11.21-16.00.01
+2. Start hping at Current Time : 2022.11.21-16.00.01
+3. Start Traceroute at Current Time : 2022.11.21-16.00.01
+4. Start iperf UDP at current Time:.2022.11.21-16.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.21-16.05.03
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.21-16.10.08
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.21-16.15.09
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.21-16.20.10
