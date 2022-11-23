@@ -3,7 +3,7 @@ import sys
 import json
 import re
 
-UDP_IP = "35.242.187.72"
+UDP_IP = "starsurrey.duckdns.org"
 UDP_PORT = 1501
 
 changeRequest = {"sTerminal":"Alan's Node", "cc":str(sys.argv[1])}
