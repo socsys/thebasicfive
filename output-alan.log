@@ -1,0 +1,802 @@
+1. Start ping at Current Time : 2022.11.24-07.00.01
+2. Start hping at Current Time : 2022.11.24-07.00.01
+3. Start Traceroute at Current Time : 2022.11.24-07.00.01
+4. Start iperf UDP at current Time:.2022.11.24-07.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.24-07.01.47
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.24-07.06.48
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.24-07.11.49
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.24-07.00.01/ (stored 0%)
+  adding: results.2022.11.24-07.00.01/iperf_tcp_bbr_2022.11.24-07.06.48.log (deflated 85%)
+  adding: results.2022.11.24-07.00.01/iperf_udp_2022.11.24-07.00.01.pcap (deflated 85%)
+  adding: results.2022.11.24-07.00.01/iperf_tcp_illinois_2022.11.24-07.11.49.pcap (deflated 65%)
+  adding: results.2022.11.24-07.00.01/ping_2022.11.24-07.00.01.log (deflated 94%)
+  adding: results.2022.11.24-07.00.01/traceroute_2022.11.24-07.00.01.log (deflated 87%)
+  adding: results.2022.11.24-07.00.01/iperf_tcp_illinois_2022.11.24-07.11.49.log (deflated 86%)
+  adding: results.2022.11.24-07.00.01/iperf_tcp_cubic_2022.11.24-07.01.47.pcap (deflated 64%)
+  adding: results.2022.11.24-07.00.01/iperf_tcp_bbr_2022.11.24-07.06.48.pcap (deflated 65%)
+  adding: results.2022.11.24-07.00.01/iperf_udp_2022.11.24-07.00.01.log (deflated 74%)
+  adding: results.2022.11.24-07.00.01/iperf_tcp_cubic_2022.11.24-07.01.47.log (deflated 85%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.24-07.17.17
+1. Start ping at Current Time : 2022.11.24-08.00.01
+2. Start hping at Current Time : 2022.11.24-08.00.01
+3. Start Traceroute at Current Time : 2022.11.24-08.00.01
+4. Start iperf UDP at current Time:.2022.11.24-08.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.24-08.01.47
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.24-08.06.48
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.24-08.11.54
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.24-08.00.01/ (stored 0%)
+  adding: results.2022.11.24-08.00.01/ping_2022.11.24-08.00.01.log (deflated 93%)
+  adding: results.2022.11.24-08.00.01/iperf_tcp_illinois_2022.11.24-08.11.54.pcap
+	zip warning:  file size changed while zipping results.2022.11.24-08.00.01/iperf_tcp_illinois_2022.11.24-08.11.54.pcap
+ (deflated 63%)
+  adding: results.2022.11.24-08.00.01/iperf_udp_2022.11.24-08.00.01.pcap (deflated 85%)
+  adding: results.2022.11.24-08.00.01/iperf_tcp_bbr_2022.11.24-08.06.48.pcap (deflated 65%)
+  adding: results.2022.11.24-08.00.01/iperf_udp_2022.11.24-08.00.01.log (deflated 74%)
+  adding: results.2022.11.24-08.00.01/iperf_tcp_cubic_2022.11.24-08.01.47.log (deflated 86%)
+  adding: results.2022.11.24-08.00.01/iperf_tcp_bbr_2022.11.24-08.06.48.log (deflated 85%)
+  adding: results.2022.11.24-08.00.01/iperf_tcp_illinois_2022.11.24-08.11.54.log (deflated 85%)
+  adding: results.2022.11.24-08.00.01/traceroute_2022.11.24-08.00.01.log (deflated 87%)
+  adding: results.2022.11.24-08.00.01/iperf_tcp_cubic_2022.11.24-08.01.47.pcap (deflated 65%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.24-08.17.19
+1. Start ping at Current Time : 2022.11.24-09.00.01
+2. Start hping at Current Time : 2022.11.24-09.00.01
+3. Start Traceroute at Current Time : 2022.11.24-09.00.01
+4. Start iperf UDP at current Time:.2022.11.24-09.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.24-09.01.42
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.24-09.06.55
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.24-09.11.56
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.24-09.00.01/ (stored 0%)
+  adding: results.2022.11.24-09.00.01/iperf_tcp_cubic_2022.11.24-09.01.42.pcap (deflated 64%)
+  adding: results.2022.11.24-09.00.01/iperf_tcp_bbr_2022.11.24-09.06.55.log (deflated 85%)
+  adding: results.2022.11.24-09.00.01/ping_2022.11.24-09.00.01.log (deflated 93%)
+  adding: results.2022.11.24-09.00.01/iperf_udp_2022.11.24-09.00.01.pcap (deflated 85%)
+  adding: results.2022.11.24-09.00.01/iperf_tcp_illinois_2022.11.24-09.11.56.log (deflated 85%)
+  adding: results.2022.11.24-09.00.01/traceroute_2022.11.24-09.00.01.log (deflated 87%)
+  adding: results.2022.11.24-09.00.01/iperf_udp_2022.11.24-09.00.01.log (deflated 73%)
+  adding: results.2022.11.24-09.00.01/iperf_tcp_illinois_2022.11.24-09.11.56.pcap (deflated 65%)
+  adding: results.2022.11.24-09.00.01/iperf_tcp_bbr_2022.11.24-09.06.55.pcap (deflated 65%)
+  adding: results.2022.11.24-09.00.01/iperf_tcp_cubic_2022.11.24-09.01.42.log (deflated 84%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.24-09.17.22
+1. Start ping at Current Time : 2022.11.24-10.00.01
+2. Start hping at Current Time : 2022.11.24-10.00.01
+3. Start Traceroute at Current Time : 2022.11.24-10.00.01
+4. Start iperf UDP at current Time:.2022.11.24-10.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.24-10.01.47
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.24-10.06.48
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.24-10.11.54
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.24-10.00.01/ (stored 0%)
+  adding: results.2022.11.24-10.00.01/iperf_tcp_cubic_2022.11.24-10.01.47.log (deflated 85%)
+  adding: results.2022.11.24-10.00.01/traceroute_2022.11.24-10.00.01.log (deflated 87%)
+  adding: results.2022.11.24-10.00.01/iperf_tcp_bbr_2022.11.24-10.06.48.pcap (deflated 65%)
+  adding: results.2022.11.24-10.00.01/iperf_tcp_illinois_2022.11.24-10.11.54.pcap (deflated 64%)
+  adding: results.2022.11.24-10.00.01/iperf_tcp_cubic_2022.11.24-10.01.47.pcap (deflated 64%)
+  adding: results.2022.11.24-10.00.01/iperf_tcp_bbr_2022.11.24-10.06.48.log (deflated 85%)
+  adding: results.2022.11.24-10.00.01/iperf_udp_2022.11.24-10.00.01.pcap (deflated 85%)
+  adding: results.2022.11.24-10.00.01/ping_2022.11.24-10.00.01.log (deflated 94%)
+  adding: results.2022.11.24-10.00.01/iperf_tcp_illinois_2022.11.24-10.11.54.log (deflated 84%)
+  adding: results.2022.11.24-10.00.01/iperf_udp_2022.11.24-10.00.01.log (deflated 74%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.24-10.17.22
+1. Start ping at Current Time : 2022.11.24-11.00.01
+2. Start hping at Current Time : 2022.11.24-11.00.01
+3. Start Traceroute at Current Time : 2022.11.24-11.00.01
+4. Start iperf UDP at current Time:.2022.11.24-11.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.24-11.01.43
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.24-11.06.44
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.24-11.11.45
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.24-11.00.01/ (stored 0%)
+  adding: results.2022.11.24-11.00.01/ping_2022.11.24-11.00.01.log (deflated 94%)
+  adding: results.2022.11.24-11.00.01/iperf_tcp_illinois_2022.11.24-11.11.45.pcap
+	zip warning:  file size changed while zipping results.2022.11.24-11.00.01/iperf_tcp_illinois_2022.11.24-11.11.45.pcap
+ (deflated 63%)
+  adding: results.2022.11.24-11.00.01/iperf_udp_2022.11.24-11.00.01.pcap (deflated 85%)
+  adding: results.2022.11.24-11.00.01/iperf_tcp_cubic_2022.11.24-11.01.43.log (deflated 85%)
+  adding: results.2022.11.24-11.00.01/iperf_tcp_bbr_2022.11.24-11.06.44.log (deflated 85%)
+  adding: results.2022.11.24-11.00.01/iperf_tcp_cubic_2022.11.24-11.01.43.pcap (deflated 64%)
+  adding: results.2022.11.24-11.00.01/traceroute_2022.11.24-11.00.01.log (deflated 87%)
+  adding: results.2022.11.24-11.00.01/iperf_tcp_illinois_2022.11.24-11.11.45.log (deflated 84%)
+  adding: results.2022.11.24-11.00.01/iperf_tcp_bbr_2022.11.24-11.06.44.pcap (deflated 65%)
+  adding: results.2022.11.24-11.00.01/iperf_udp_2022.11.24-11.00.01.log (deflated 74%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.24-11.17.07
+1. Start ping at Current Time : 2022.11.24-12.00.01
+2. Start hping at Current Time : 2022.11.24-12.00.01
+3. Start Traceroute at Current Time : 2022.11.24-12.00.01
+4. Start iperf UDP at current Time:.2022.11.24-12.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.24-12.01.44
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.24-12.06.50
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.24-12.11.51
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.24-12.00.01/ (stored 0%)
+  adding: results.2022.11.24-12.00.01/iperf_tcp_bbr_2022.11.24-12.06.50.log (deflated 85%)
+  adding: results.2022.11.24-12.00.01/iperf_tcp_bbr_2022.11.24-12.06.50.pcap (deflated 64%)
+  adding: results.2022.11.24-12.00.01/iperf_tcp_cubic_2022.11.24-12.01.44.log (deflated 84%)
+  adding: results.2022.11.24-12.00.01/iperf_tcp_cubic_2022.11.24-12.01.44.pcap (deflated 63%)
+  adding: results.2022.11.24-12.00.01/iperf_tcp_illinois_2022.11.24-12.11.51.log (deflated 86%)
+  adding: results.2022.11.24-12.00.01/ping_2022.11.24-12.00.01.log (deflated 93%)
+  adding: results.2022.11.24-12.00.01/traceroute_2022.11.24-12.00.01.log
+	zip warning:  file size changed while zipping results.2022.11.24-12.00.01/traceroute_2022.11.24-12.00.01.log
+ (deflated 87%)
+  adding: results.2022.11.24-12.00.01/iperf_udp_2022.11.24-12.00.01.log (deflated 73%)
+  adding: results.2022.11.24-12.00.01/iperf_udp_2022.11.24-12.00.01.pcap (deflated 85%)
+  adding: results.2022.11.24-12.00.01/iperf_tcp_illinois_2022.11.24-12.11.51.pcap (deflated 65%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.24-12.17.22
+1. Start ping at Current Time : 2022.11.25-07.00.01
+2. Start hping at Current Time : 2022.11.25-07.00.01
+3. Start Traceroute at Current Time : 2022.11.25-07.00.01
+4. Start iperf UDP at current Time:.2022.11.25-07.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.25-07.01.44
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.25-07.02.15
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.25-07.02.46
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.25-07.00.01/ (stored 0%)
+  adding: results.2022.11.25-07.00.01/iperf_tcp_cubic_2022.11.25-07.01.44.pcap (deflated 65%)
+  adding: results.2022.11.25-07.00.01/iperf_tcp_bbr_2022.11.25-07.02.15.pcap (deflated 64%)
+  adding: results.2022.11.25-07.00.01/iperf_tcp_bbr_2022.11.25-07.02.15.log (deflated 79%)
+  adding: results.2022.11.25-07.00.01/iperf_tcp_illinois_2022.11.25-07.02.46.log (deflated 79%)
+  adding: results.2022.11.25-07.00.01/ping_2022.11.25-07.00.01.log (deflated 79%)
+  adding: results.2022.11.25-07.00.01/iperf_udp_2022.11.25-07.00.01.pcap (deflated 85%)
+  adding: results.2022.11.25-07.00.01/traceroute_2022.11.25-07.00.01.log (deflated 73%)
+  adding: results.2022.11.25-07.00.01/iperf_udp_2022.11.25-07.00.01.log (deflated 75%)
+  adding: results.2022.11.25-07.00.01/iperf_tcp_illinois_2022.11.25-07.02.46.pcap (deflated 64%)
+  adding: results.2022.11.25-07.00.01/iperf_tcp_cubic_2022.11.25-07.01.44.log (deflated 78%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.25-07.03.24
+1. Start ping at Current Time : 2022.11.25-08.00.01
+2. Start hping at Current Time : 2022.11.25-08.00.01
+3. Start Traceroute at Current Time : 2022.11.25-08.00.01
+4. Start iperf UDP at current Time:.2022.11.25-08.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.25-08.02.06
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.25-08.02.38
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.25-08.03.09
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.25-08.00.01/ (stored 0%)
+  adding: results.2022.11.25-08.00.01/ping_2022.11.25-08.00.01.log (deflated 81%)
+  adding: results.2022.11.25-08.00.01/iperf_tcp_cubic_2022.11.25-08.02.06.log (deflated 78%)
+  adding: results.2022.11.25-08.00.01/iperf_tcp_illinois_2022.11.25-08.03.09.log (deflated 79%)
+  adding: results.2022.11.25-08.00.01/iperf_tcp_bbr_2022.11.25-08.02.38.pcap (deflated 65%)
+  adding: results.2022.11.25-08.00.01/traceroute_2022.11.25-08.00.01.log (deflated 74%)
+  adding: results.2022.11.25-08.00.01/iperf_udp_2022.11.25-08.00.01.log (deflated 74%)
+  adding: results.2022.11.25-08.00.01/iperf_udp_2022.11.25-08.00.01.pcap (deflated 85%)
+  adding: results.2022.11.25-08.00.01/iperf_tcp_illinois_2022.11.25-08.03.09.pcap (deflated 65%)
+  adding: results.2022.11.25-08.00.01/iperf_tcp_cubic_2022.11.25-08.02.06.pcap (deflated 66%)
+  adding: results.2022.11.25-08.00.01/iperf_tcp_bbr_2022.11.25-08.02.38.log (deflated 78%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.25-08.04.02
+1. Start ping at Current Time : 2022.11.25-09.00.01
+2. Start hping at Current Time : 2022.11.25-09.00.01
+3. Start Traceroute at Current Time : 2022.11.25-09.00.01
+4. Start iperf UDP at current Time:.2022.11.25-09.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.25-09.01.47
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.25-09.02.18
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.25-09.02.49
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.25-09.00.01/ (stored 0%)
+  adding: results.2022.11.25-09.00.01/iperf_tcp_illinois_2022.11.25-09.02.49.log (deflated 79%)
+  adding: results.2022.11.25-09.00.01/traceroute_2022.11.25-09.00.01.log (deflated 73%)
+  adding: results.2022.11.25-09.00.01/iperf_tcp_cubic_2022.11.25-09.01.47.pcap (deflated 65%)
+  adding: results.2022.11.25-09.00.01/iperf_udp_2022.11.25-09.00.01.pcap (deflated 85%)
+  adding: results.2022.11.25-09.00.01/iperf_tcp_bbr_2022.11.25-09.02.18.log (deflated 78%)
+  adding: results.2022.11.25-09.00.01/iperf_tcp_illinois_2022.11.25-09.02.49.pcap (deflated 64%)
+  adding: results.2022.11.25-09.00.01/ping_2022.11.25-09.00.01.log (deflated 81%)
+  adding: results.2022.11.25-09.00.01/iperf_udp_2022.11.25-09.00.01.log (deflated 74%)
+  adding: results.2022.11.25-09.00.01/iperf_tcp_bbr_2022.11.25-09.02.18.pcap (deflated 65%)
+  adding: results.2022.11.25-09.00.01/iperf_tcp_cubic_2022.11.25-09.01.47.log (deflated 78%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.25-09.03.28
+1. Start ping at Current Time : 2022.11.25-10.00.01
+2. Start hping at Current Time : 2022.11.25-10.00.01
+3. Start Traceroute at Current Time : 2022.11.25-10.00.01
+4. Start iperf UDP at current Time:.2022.11.25-10.00.01
+1. Start ping at Current Time : 2022.11.25-11.00.01
+2. Start hping at Current Time : 2022.11.25-11.00.01
+3. Start Traceroute at Current Time : 2022.11.25-11.00.01
+4. Start iperf UDP at current Time:.2022.11.25-11.00.01
+1. Start ping at Current Time : 2022.11.25-12.00.01
+2. Start hping at Current Time : 2022.11.25-12.00.01
+3. Start Traceroute at Current Time : 2022.11.25-12.00.01
+4. Start iperf UDP at current Time:.2022.11.25-12.00.01
+1. Start ping at Current Time : 2022.11.26-07.00.01
+2. Start hping at Current Time : 2022.11.26-07.00.01
+3. Start Traceroute at Current Time : 2022.11.26-07.00.01
+4. Start iperf UDP at current Time:.2022.11.26-07.00.01
+1. Start ping at Current Time : 2022.11.26-08.00.01
+2. Start hping at Current Time : 2022.11.26-08.00.01
+3. Start Traceroute at Current Time : 2022.11.26-08.00.01
+4. Start iperf UDP at current Time:.2022.11.26-08.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.26-08.02.12
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.26-08.04.23
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.26-08.06.34
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.26-08.00.01/ (stored 0%)
+  adding: results.2022.11.26-08.00.01/iperf_tcp_cubic_2022.11.26-08.02.12.log (stored 0%)
+  adding: results.2022.11.26-08.00.01/iperf_tcp_cubic_2022.11.26-08.02.12.pcap (deflated 76%)
+  adding: results.2022.11.26-08.00.01/iperf_tcp_bbr_2022.11.26-08.04.23.log (stored 0%)
+  adding: results.2022.11.26-08.00.01/iperf_tcp_bbr_2022.11.26-08.04.23.pcap (deflated 74%)
+  adding: results.2022.11.26-08.00.01/ping_2022.11.26-08.00.01.log (deflated 81%)
+  adding: results.2022.11.26-08.00.01/iperf_udp_2022.11.26-08.00.01.pcap (deflated 75%)
+  adding: results.2022.11.26-08.00.01/iperf_tcp_illinois_2022.11.26-08.06.34.pcap (deflated 74%)
+  adding: results.2022.11.26-08.00.01/traceroute_2022.11.26-08.00.01.log (deflated 74%)
+  adding: results.2022.11.26-08.00.01/iperf_tcp_illinois_2022.11.26-08.06.34.log (stored 0%)
+  adding: results.2022.11.26-08.00.01/iperf_udp_2022.11.26-08.00.01.log (stored 0%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.26-08.08.46
+1. Start ping at Current Time : 2022.11.26-09.00.01
+2. Start hping at Current Time : 2022.11.26-09.00.01
+3. Start Traceroute at Current Time : 2022.11.26-09.00.01
+4. Start iperf UDP at current Time:.2022.11.26-09.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.26-09.02.17
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.26-09.04.28
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.26-09.06.39
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.26-09.00.01/ (stored 0%)
+  adding: results.2022.11.26-09.00.01/iperf_tcp_cubic_2022.11.26-09.02.17.pcap (deflated 76%)
+  adding: results.2022.11.26-09.00.01/iperf_tcp_illinois_2022.11.26-09.06.39.pcap (deflated 71%)
+  adding: results.2022.11.26-09.00.01/iperf_tcp_bbr_2022.11.26-09.04.28.log (stored 0%)
+  adding: results.2022.11.26-09.00.01/iperf_tcp_bbr_2022.11.26-09.04.28.pcap (deflated 75%)
+  adding: results.2022.11.26-09.00.01/ping_2022.11.26-09.00.01.log (deflated 81%)
+  adding: results.2022.11.26-09.00.01/iperf_udp_2022.11.26-09.00.01.pcap (deflated 74%)
+  adding: results.2022.11.26-09.00.01/traceroute_2022.11.26-09.00.01.log (deflated 73%)
+  adding: results.2022.11.26-09.00.01/iperf_udp_2022.11.26-09.00.01.log (stored 0%)
+  adding: results.2022.11.26-09.00.01/iperf_tcp_cubic_2022.11.26-09.02.17.log (stored 0%)
+  adding: results.2022.11.26-09.00.01/iperf_tcp_illinois_2022.11.26-09.06.39.log (stored 0%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.26-09.08.50
+1. Start ping at Current Time : 2022.11.26-10.00.01
+2. Start hping at Current Time : 2022.11.26-10.00.01
+3. Start Traceroute at Current Time : 2022.11.26-10.00.01
+4. Start iperf UDP at current Time:.2022.11.26-10.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.26-10.02.13
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.26-10.04.24
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.26-10.06.35
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.26-10.00.01/ (stored 0%)
+  adding: results.2022.11.26-10.00.01/iperf_tcp_illinois_2022.11.26-10.06.35.log (stored 0%)
+  adding: results.2022.11.26-10.00.01/traceroute_2022.11.26-10.00.01.log (deflated 74%)
+  adding: results.2022.11.26-10.00.01/iperf_tcp_bbr_2022.11.26-10.04.24.pcap (deflated 72%)
+  adding: results.2022.11.26-10.00.01/iperf_tcp_cubic_2022.11.26-10.02.13.log (stored 0%)
+  adding: results.2022.11.26-10.00.01/ping_2022.11.26-10.00.01.log (deflated 81%)
+  adding: results.2022.11.26-10.00.01/iperf_udp_2022.11.26-10.00.01.pcap (deflated 74%)
+  adding: results.2022.11.26-10.00.01/iperf_tcp_cubic_2022.11.26-10.02.13.pcap (deflated 73%)
+  adding: results.2022.11.26-10.00.01/iperf_tcp_bbr_2022.11.26-10.04.24.log (stored 0%)
+  adding: results.2022.11.26-10.00.01/iperf_tcp_illinois_2022.11.26-10.06.35.pcap (deflated 73%)
+  adding: results.2022.11.26-10.00.01/iperf_udp_2022.11.26-10.00.01.log (stored 0%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.26-10.08.47
+1. Start ping at Current Time : 2022.11.26-11.00.01
+2. Start hping at Current Time : 2022.11.26-11.00.01
+3. Start Traceroute at Current Time : 2022.11.26-11.00.01
+4. Start iperf UDP at current Time:.2022.11.26-11.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.26-11.02.11
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.26-11.04.22
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.26-11.06.33
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.26-11.00.01/ (stored 0%)
+  adding: results.2022.11.26-11.00.01/iperf_tcp_bbr_2022.11.26-11.04.22.log (stored 0%)
+  adding: results.2022.11.26-11.00.01/ping_2022.11.26-11.00.01.log (deflated 81%)
+  adding: results.2022.11.26-11.00.01/iperf_udp_2022.11.26-11.00.01.log (stored 0%)
+  adding: results.2022.11.26-11.00.01/iperf_tcp_cubic_2022.11.26-11.02.11.log (stored 0%)
+  adding: results.2022.11.26-11.00.01/iperf_tcp_cubic_2022.11.26-11.02.11.pcap (deflated 75%)
+  adding: results.2022.11.26-11.00.01/iperf_tcp_illinois_2022.11.26-11.06.33.pcap (deflated 75%)
+  adding: results.2022.11.26-11.00.01/iperf_udp_2022.11.26-11.00.01.pcap (deflated 75%)
+  adding: results.2022.11.26-11.00.01/iperf_tcp_illinois_2022.11.26-11.06.33.log (stored 0%)
+  adding: results.2022.11.26-11.00.01/traceroute_2022.11.26-11.00.01.log (deflated 73%)
+  adding: results.2022.11.26-11.00.01/iperf_tcp_bbr_2022.11.26-11.04.22.pcap (deflated 76%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.26-11.08.45
+1. Start ping at Current Time : 2022.11.26-12.00.01
+2. Start hping at Current Time : 2022.11.26-12.00.01
+3. Start Traceroute at Current Time : 2022.11.26-12.00.01
+4. Start iperf UDP at current Time:.2022.11.26-12.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.26-12.02.18
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.26-12.04.29
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.26-12.06.40
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.26-12.00.01/ (stored 0%)
+  adding: results.2022.11.26-12.00.01/iperf_udp_2022.11.26-12.00.01.pcap (deflated 76%)
+  adding: results.2022.11.26-12.00.01/traceroute_2022.11.26-12.00.01.log (deflated 74%)
+  adding: results.2022.11.26-12.00.01/iperf_udp_2022.11.26-12.00.01.log (stored 0%)
+  adding: results.2022.11.26-12.00.01/iperf_tcp_cubic_2022.11.26-12.02.18.pcap (deflated 78%)
+  adding: results.2022.11.26-12.00.01/iperf_tcp_cubic_2022.11.26-12.02.18.log (stored 0%)
+  adding: results.2022.11.26-12.00.01/ping_2022.11.26-12.00.01.log (deflated 81%)
+  adding: results.2022.11.26-12.00.01/iperf_tcp_illinois_2022.11.26-12.06.40.pcap (deflated 77%)
+  adding: results.2022.11.26-12.00.01/iperf_tcp_illinois_2022.11.26-12.06.40.log (stored 0%)
+  adding: results.2022.11.26-12.00.01/iperf_tcp_bbr_2022.11.26-12.04.29.log (stored 0%)
+  adding: results.2022.11.26-12.00.01/iperf_tcp_bbr_2022.11.26-12.04.29.pcap (deflated 76%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.26-12.08.52
+1. Start ping at Current Time : 2022.11.27-07.00.01
+2. Start hping at Current Time : 2022.11.27-07.00.01
+3. Start Traceroute at Current Time : 2022.11.27-07.00.01
+4. Start iperf UDP at current Time:.2022.11.27-07.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.27-07.02.17
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.27-07.04.28
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.27-07.06.39
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.27-07.00.01/ (stored 0%)
+  adding: results.2022.11.27-07.00.01/iperf_udp_2022.11.27-07.00.01.pcap (deflated 72%)
+  adding: results.2022.11.27-07.00.01/ping_2022.11.27-07.00.01.log (deflated 81%)
+  adding: results.2022.11.27-07.00.01/iperf_udp_2022.11.27-07.00.01.log (stored 0%)
+  adding: results.2022.11.27-07.00.01/iperf_tcp_illinois_2022.11.27-07.06.39.pcap (deflated 72%)
+  adding: results.2022.11.27-07.00.01/iperf_tcp_illinois_2022.11.27-07.06.39.log (stored 0%)
+  adding: results.2022.11.27-07.00.01/iperf_tcp_bbr_2022.11.27-07.04.28.pcap (deflated 71%)
+  adding: results.2022.11.27-07.00.01/iperf_tcp_cubic_2022.11.27-07.02.17.log (stored 0%)
+  adding: results.2022.11.27-07.00.01/iperf_tcp_bbr_2022.11.27-07.04.28.log (stored 0%)
+  adding: results.2022.11.27-07.00.01/traceroute_2022.11.27-07.00.01.log (deflated 74%)
+  adding: results.2022.11.27-07.00.01/iperf_tcp_cubic_2022.11.27-07.02.17.pcap (deflated 71%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.27-07.08.51
+1. Start ping at Current Time : 2022.11.27-08.00.01
+2. Start hping at Current Time : 2022.11.27-08.00.01
+3. Start Traceroute at Current Time : 2022.11.27-08.00.01
+4. Start iperf UDP at current Time:.2022.11.27-08.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.27-08.02.11
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.27-08.04.22
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.27-08.06.33
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.27-08.00.01/ (stored 0%)
+  adding: results.2022.11.27-08.00.01/ping_2022.11.27-08.00.01.log (deflated 81%)
+  adding: results.2022.11.27-08.00.01/iperf_udp_2022.11.27-08.00.01.pcap (deflated 75%)
+  adding: results.2022.11.27-08.00.01/iperf_tcp_cubic_2022.11.27-08.02.11.log (stored 0%)
+  adding: results.2022.11.27-08.00.01/iperf_tcp_bbr_2022.11.27-08.04.22.pcap (deflated 75%)
+  adding: results.2022.11.27-08.00.01/iperf_udp_2022.11.27-08.00.01.log (stored 0%)
+  adding: results.2022.11.27-08.00.01/iperf_tcp_illinois_2022.11.27-08.06.33.log (stored 0%)
+  adding: results.2022.11.27-08.00.01/traceroute_2022.11.27-08.00.01.log (deflated 74%)
+  adding: results.2022.11.27-08.00.01/iperf_tcp_bbr_2022.11.27-08.04.22.log (stored 0%)
+  adding: results.2022.11.27-08.00.01/iperf_tcp_cubic_2022.11.27-08.02.11.pcap (deflated 78%)
+  adding: results.2022.11.27-08.00.01/iperf_tcp_illinois_2022.11.27-08.06.33.pcap (deflated 74%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.27-08.08.45
+1. Start ping at Current Time : 2022.11.27-09.00.01
+2. Start hping at Current Time : 2022.11.27-09.00.01
+3. Start Traceroute at Current Time : 2022.11.27-09.00.01
+4. Start iperf UDP at current Time:.2022.11.27-09.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.27-09.02.11
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.27-09.04.23
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.27-09.06.34
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.27-09.00.01/ (stored 0%)
+  adding: results.2022.11.27-09.00.01/iperf_tcp_bbr_2022.11.27-09.04.23.pcap (deflated 73%)
+  adding: results.2022.11.27-09.00.01/iperf_tcp_illinois_2022.11.27-09.06.34.log (stored 0%)
+  adding: results.2022.11.27-09.00.01/iperf_udp_2022.11.27-09.00.01.log (stored 0%)
+  adding: results.2022.11.27-09.00.01/iperf_tcp_cubic_2022.11.27-09.02.11.log (stored 0%)
+  adding: results.2022.11.27-09.00.01/traceroute_2022.11.27-09.00.01.log (deflated 74%)
+  adding: results.2022.11.27-09.00.01/iperf_udp_2022.11.27-09.00.01.pcap (deflated 74%)
+  adding: results.2022.11.27-09.00.01/iperf_tcp_cubic_2022.11.27-09.02.11.pcap (deflated 76%)
+  adding: results.2022.11.27-09.00.01/iperf_tcp_bbr_2022.11.27-09.04.23.log (stored 0%)
+  adding: results.2022.11.27-09.00.01/ping_2022.11.27-09.00.01.log (deflated 81%)
+  adding: results.2022.11.27-09.00.01/iperf_tcp_illinois_2022.11.27-09.06.34.pcap (deflated 77%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.27-09.08.45
+1. Start ping at Current Time : 2022.11.27-10.00.01
+2. Start hping at Current Time : 2022.11.27-10.00.01
+3. Start Traceroute at Current Time : 2022.11.27-10.00.01
+4. Start iperf UDP at current Time:.2022.11.27-10.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.27-10.02.16
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.27-10.04.27
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.27-10.06.38
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.27-10.00.01/ (stored 0%)
+  adding: results.2022.11.27-10.00.01/iperf_tcp_bbr_2022.11.27-10.04.27.pcap (deflated 76%)
+  adding: results.2022.11.27-10.00.01/iperf_tcp_cubic_2022.11.27-10.02.16.log (stored 0%)
+  adding: results.2022.11.27-10.00.01/iperf_udp_2022.11.27-10.00.01.log (stored 0%)
+  adding: results.2022.11.27-10.00.01/iperf_tcp_illinois_2022.11.27-10.06.38.pcap (deflated 77%)
+  adding: results.2022.11.27-10.00.01/traceroute_2022.11.27-10.00.01.log (deflated 74%)
+  adding: results.2022.11.27-10.00.01/ping_2022.11.27-10.00.01.log (deflated 81%)
+  adding: results.2022.11.27-10.00.01/iperf_tcp_bbr_2022.11.27-10.04.27.log (stored 0%)
+  adding: results.2022.11.27-10.00.01/iperf_udp_2022.11.27-10.00.01.pcap (deflated 76%)
+  adding: results.2022.11.27-10.00.01/iperf_tcp_cubic_2022.11.27-10.02.16.pcap (deflated 78%)
+  adding: results.2022.11.27-10.00.01/iperf_tcp_illinois_2022.11.27-10.06.38.log (stored 0%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.27-10.08.54
+1. Start ping at Current Time : 2022.11.27-11.00.01
+2. Start hping at Current Time : 2022.11.27-11.00.01
+3. Start Traceroute at Current Time : 2022.11.27-11.00.01
+4. Start iperf UDP at current Time:.2022.11.27-11.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.27-11.02.12
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.27-11.04.23
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.27-11.06.34
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.27-11.00.01/ (stored 0%)
+  adding: results.2022.11.27-11.00.01/ping_2022.11.27-11.00.01.log (deflated 81%)
+  adding: results.2022.11.27-11.00.01/iperf_tcp_cubic_2022.11.27-11.02.12.log (stored 0%)
+  adding: results.2022.11.27-11.00.01/iperf_tcp_bbr_2022.11.27-11.04.23.pcap (deflated 73%)
+  adding: results.2022.11.27-11.00.01/traceroute_2022.11.27-11.00.01.log (deflated 73%)
+  adding: results.2022.11.27-11.00.01/iperf_udp_2022.11.27-11.00.01.pcap (deflated 73%)
+  adding: results.2022.11.27-11.00.01/iperf_tcp_cubic_2022.11.27-11.02.12.pcap (deflated 71%)
+  adding: results.2022.11.27-11.00.01/iperf_tcp_illinois_2022.11.27-11.06.34.pcap (deflated 78%)
+  adding: results.2022.11.27-11.00.01/iperf_udp_2022.11.27-11.00.01.log (stored 0%)
+  adding: results.2022.11.27-11.00.01/iperf_tcp_illinois_2022.11.27-11.06.34.log (stored 0%)
+  adding: results.2022.11.27-11.00.01/iperf_tcp_bbr_2022.11.27-11.04.23.log (stored 0%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.27-11.08.46
+1. Start ping at Current Time : 2022.11.27-12.00.01
+2. Start hping at Current Time : 2022.11.27-12.00.01
+3. Start Traceroute at Current Time : 2022.11.27-12.00.01
+4. Start iperf UDP at current Time:.2022.11.27-12.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.27-12.02.13
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.27-12.04.24
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.27-12.06.35
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.27-12.00.01/ (stored 0%)
+  adding: results.2022.11.27-12.00.01/iperf_tcp_cubic_2022.11.27-12.02.13.log (stored 0%)
+  adding: results.2022.11.27-12.00.01/iperf_tcp_illinois_2022.11.27-12.06.35.log (stored 0%)
+  adding: results.2022.11.27-12.00.01/iperf_tcp_bbr_2022.11.27-12.04.24.log (stored 0%)
+  adding: results.2022.11.27-12.00.01/iperf_udp_2022.11.27-12.00.01.pcap (deflated 75%)
+  adding: results.2022.11.27-12.00.01/iperf_tcp_bbr_2022.11.27-12.04.24.pcap (deflated 72%)
+  adding: results.2022.11.27-12.00.01/iperf_udp_2022.11.27-12.00.01.log (stored 0%)
+  adding: results.2022.11.27-12.00.01/ping_2022.11.27-12.00.01.log (deflated 81%)
+  adding: results.2022.11.27-12.00.01/iperf_tcp_illinois_2022.11.27-12.06.35.pcap (deflated 77%)
+  adding: results.2022.11.27-12.00.01/iperf_tcp_cubic_2022.11.27-12.02.13.pcap (deflated 73%)
+  adding: results.2022.11.27-12.00.01/traceroute_2022.11.27-12.00.01.log (deflated 73%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.27-12.08.46
+1. Start ping at Current Time : 2022.11.28-07.00.01
+2. Start hping at Current Time : 2022.11.28-07.00.01
+3. Start Traceroute at Current Time : 2022.11.28-07.00.01
+4. Start iperf UDP at current Time:.2022.11.28-07.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.28-07.02.18
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.28-07.04.29
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.28-07.06.40
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.28-07.00.01/ (stored 0%)
+  adding: results.2022.11.28-07.00.01/traceroute_2022.11.28-07.00.01.log (deflated 75%)
+  adding: results.2022.11.28-07.00.01/iperf_tcp_illinois_2022.11.28-07.06.40.pcap (deflated 77%)
+  adding: results.2022.11.28-07.00.01/iperf_tcp_bbr_2022.11.28-07.04.29.pcap (deflated 76%)
+  adding: results.2022.11.28-07.00.01/iperf_tcp_bbr_2022.11.28-07.04.29.log (stored 0%)
+  adding: results.2022.11.28-07.00.01/iperf_tcp_cubic_2022.11.28-07.02.18.pcap (deflated 77%)
+  adding: results.2022.11.28-07.00.01/iperf_udp_2022.11.28-07.00.01.pcap (deflated 76%)
+  adding: results.2022.11.28-07.00.01/iperf_tcp_illinois_2022.11.28-07.06.40.log (stored 0%)
+  adding: results.2022.11.28-07.00.01/iperf_tcp_cubic_2022.11.28-07.02.18.log (stored 0%)
+  adding: results.2022.11.28-07.00.01/iperf_udp_2022.11.28-07.00.01.log (stored 0%)
+  adding: results.2022.11.28-07.00.01/ping_2022.11.28-07.00.01.log (deflated 81%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.28-07.08.52
+1. Start ping at Current Time : 2022.11.28-08.00.01
+2. Start hping at Current Time : 2022.11.28-08.00.01
+3. Start Traceroute at Current Time : 2022.11.28-08.00.01
+4. Start iperf UDP at current Time:.2022.11.28-08.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.28-08.02.12
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.28-08.04.23
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.28-08.06.34
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.28-08.00.01/ (stored 0%)
+  adding: results.2022.11.28-08.00.01/traceroute_2022.11.28-08.00.01.log (deflated 73%)
+  adding: results.2022.11.28-08.00.01/iperf_tcp_cubic_2022.11.28-08.02.12.pcap (deflated 73%)
+  adding: results.2022.11.28-08.00.01/iperf_tcp_bbr_2022.11.28-08.04.23.pcap (deflated 75%)
+  adding: results.2022.11.28-08.00.01/iperf_udp_2022.11.28-08.00.01.pcap (deflated 73%)
+  adding: results.2022.11.28-08.00.01/iperf_udp_2022.11.28-08.00.01.log (stored 0%)
+  adding: results.2022.11.28-08.00.01/ping_2022.11.28-08.00.01.log (deflated 81%)
+  adding: results.2022.11.28-08.00.01/iperf_tcp_bbr_2022.11.28-08.04.23.log (stored 0%)
+  adding: results.2022.11.28-08.00.01/iperf_tcp_illinois_2022.11.28-08.06.34.pcap (deflated 77%)
+  adding: results.2022.11.28-08.00.01/iperf_tcp_cubic_2022.11.28-08.02.12.log (stored 0%)
+  adding: results.2022.11.28-08.00.01/iperf_tcp_illinois_2022.11.28-08.06.34.log (stored 0%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.28-08.08.46
+1. Start ping at Current Time : 2022.11.28-09.00.01
+2. Start hping at Current Time : 2022.11.28-09.00.01
+3. Start Traceroute at Current Time : 2022.11.28-09.00.01
+4. Start iperf UDP at current Time:.2022.11.28-09.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.28-09.02.10
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.28-09.04.22
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.28-09.06.33
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.28-09.00.01/ (stored 0%)
+  adding: results.2022.11.28-09.00.01/iperf_udp_2022.11.28-09.00.01.log (stored 0%)
+  adding: results.2022.11.28-09.00.01/iperf_tcp_illinois_2022.11.28-09.06.33.pcap (deflated 72%)
+  adding: results.2022.11.28-09.00.01/iperf_udp_2022.11.28-09.00.01.pcap (deflated 73%)
+  adding: results.2022.11.28-09.00.01/iperf_tcp_bbr_2022.11.28-09.04.22.log (stored 0%)
+  adding: results.2022.11.28-09.00.01/iperf_tcp_cubic_2022.11.28-09.02.10.pcap (deflated 76%)
+  adding: results.2022.11.28-09.00.01/iperf_tcp_bbr_2022.11.28-09.04.22.pcap (deflated 74%)
+  adding: results.2022.11.28-09.00.01/ping_2022.11.28-09.00.01.log (deflated 81%)
+  adding: results.2022.11.28-09.00.01/iperf_tcp_illinois_2022.11.28-09.06.33.log (stored 0%)
+  adding: results.2022.11.28-09.00.01/traceroute_2022.11.28-09.00.01.log (deflated 75%)
+  adding: results.2022.11.28-09.00.01/iperf_tcp_cubic_2022.11.28-09.02.10.log (stored 0%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.28-09.08.49
+1. Start ping at Current Time : 2022.11.28-10.00.01
+2. Start hping at Current Time : 2022.11.28-10.00.01
+3. Start Traceroute at Current Time : 2022.11.28-10.00.01
+4. Start iperf UDP at current Time:.2022.11.28-10.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.28-10.02.11
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.28-10.04.22
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.28-10.06.33
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.28-10.00.01/ (stored 0%)
+  adding: results.2022.11.28-10.00.01/iperf_tcp_bbr_2022.11.28-10.04.22.pcap (deflated 71%)
+  adding: results.2022.11.28-10.00.01/iperf_tcp_cubic_2022.11.28-10.02.11.pcap (deflated 74%)
+  adding: results.2022.11.28-10.00.01/iperf_tcp_bbr_2022.11.28-10.04.22.log (stored 0%)
+  adding: results.2022.11.28-10.00.01/ping_2022.11.28-10.00.01.log (deflated 81%)
+  adding: results.2022.11.28-10.00.01/iperf_udp_2022.11.28-10.00.01.log (stored 0%)
+  adding: results.2022.11.28-10.00.01/iperf_udp_2022.11.28-10.00.01.pcap (deflated 73%)
+  adding: results.2022.11.28-10.00.01/traceroute_2022.11.28-10.00.01.log (deflated 74%)
+  adding: results.2022.11.28-10.00.01/iperf_tcp_illinois_2022.11.28-10.06.33.log (stored 0%)
+  adding: results.2022.11.28-10.00.01/iperf_tcp_illinois_2022.11.28-10.06.33.pcap (deflated 73%)
+  adding: results.2022.11.28-10.00.01/iperf_tcp_cubic_2022.11.28-10.02.11.log (stored 0%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.28-10.08.45
+1. Start ping at Current Time : 2022.11.28-11.00.01
+2. Start hping at Current Time : 2022.11.28-11.00.01
+3. Start Traceroute at Current Time : 2022.11.28-11.00.01
+4. Start iperf UDP at current Time:.2022.11.28-11.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.28-11.02.13
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.28-11.04.24
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.28-11.06.35
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.28-11.00.01/ (stored 0%)
+  adding: results.2022.11.28-11.00.01/ping_2022.11.28-11.00.01.log (deflated 81%)
+  adding: results.2022.11.28-11.00.01/traceroute_2022.11.28-11.00.01.log (deflated 73%)
+  adding: results.2022.11.28-11.00.01/iperf_tcp_illinois_2022.11.28-11.06.35.log (stored 0%)
+  adding: results.2022.11.28-11.00.01/iperf_tcp_bbr_2022.11.28-11.04.24.log (stored 0%)
+  adding: results.2022.11.28-11.00.01/iperf_tcp_cubic_2022.11.28-11.02.13.pcap (deflated 77%)
+  adding: results.2022.11.28-11.00.01/iperf_udp_2022.11.28-11.00.01.pcap (deflated 74%)
+  adding: results.2022.11.28-11.00.01/iperf_tcp_bbr_2022.11.28-11.04.24.pcap (deflated 73%)
+  adding: results.2022.11.28-11.00.01/iperf_udp_2022.11.28-11.00.01.log (stored 0%)
+  adding: results.2022.11.28-11.00.01/iperf_tcp_cubic_2022.11.28-11.02.13.log (stored 0%)
+  adding: results.2022.11.28-11.00.01/iperf_tcp_illinois_2022.11.28-11.06.35.pcap (deflated 75%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.28-11.08.47
+1. Start ping at Current Time : 2022.11.28-12.00.01
+2. Start hping at Current Time : 2022.11.28-12.00.01
+3. Start Traceroute at Current Time : 2022.11.28-12.00.01
+4. Start iperf UDP at current Time:.2022.11.28-12.00.01
+5. Start iperf TCP CUBIC at current Time: .2022.11.28-12.02.14
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.cubic
+net.ipv4.tcp_congestion_control = cubic
+6. Start iperf TCP BBR at current Time:.2022.11.28-12.04.25
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.bbr
+net.ipv4.tcp_congestion_control = bbr
+7. Start iperf TCP Illinois at current Time:.2022.11.28-12.06.40
+.... Send request to the server to change the congestion control 
+.... The congestion control on the server side is successfully change.illinois
+net.ipv4.tcp_congestion_control = illinois
+ship the data to the server ....
+  adding: results.2022.11.28-12.00.01/ (stored 0%)
+  adding: results.2022.11.28-12.00.01/iperf_tcp_illinois_2022.11.28-12.06.40.pcap (deflated 77%)
+  adding: results.2022.11.28-12.00.01/iperf_tcp_cubic_2022.11.28-12.02.14.log (stored 0%)
+  adding: results.2022.11.28-12.00.01/iperf_tcp_bbr_2022.11.28-12.04.25.pcap (deflated 74%)
+  adding: results.2022.11.28-12.00.01/ping_2022.11.28-12.00.01.log (deflated 81%)
+  adding: results.2022.11.28-12.00.01/iperf_tcp_bbr_2022.11.28-12.04.25.log (stored 0%)
+  adding: results.2022.11.28-12.00.01/traceroute_2022.11.28-12.00.01.log (deflated 73%)
+  adding: results.2022.11.28-12.00.01/iperf_udp_2022.11.28-12.00.01.log (stored 0%)
+  adding: results.2022.11.28-12.00.01/iperf_tcp_cubic_2022.11.28-12.02.14.pcap (deflated 76%)
+  adding: results.2022.11.28-12.00.01/iperf_udp_2022.11.28-12.00.01.pcap (deflated 75%)
+  adding: results.2022.11.28-12.00.01/iperf_tcp_illinois_2022.11.28-12.06.40.log (stored 0%)
+......................................................................
+..... We are done now .. See you next hour. Time now is : 2022.11.28-12.08.52

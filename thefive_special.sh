@@ -2,12 +2,12 @@
 sudoPW="snuc"
 
 server="starsurrey.duckdns.org"		#Google Server London
-ping_duration=120
+ping_duration=1200
 hping_duration=1
 hping_port=4040
-tracrt_cnt=400
-iperf_duration=30
-count=12
+tracrt_cnt=300
+iperf_duration=300
+count=1200
 output_cc_change_request=""
 
 current_time=$(date -u "+%Y.%m.%d-%H.%M.%S")
@@ -24,7 +24,7 @@ echo "2. Start hping at Current Time : $current_time"
 
 #echo $sudoPW | sudo -S hping3 -S $server -p $hping_port -c $hping_duration >> ./$dirname/"hping_"$current_time".log" &
 
-while [ $count -gt 0 ]; do ./hping_sh.sh $server $hping_duration $dirname $current_time $hping_port; sleep 1; ((count=count-1)); done &
+while [ $count -gt 0 ]; do /home/snuc/thebasicfive/hping_sh.sh $server $hping_duration $dirname $current_time $hping_port; sleep 1; ((count=count-1)); done &
 hping_pid=$!
 
 current_time=$(date -u "+%Y.%m.%d-%H.%M.%S")
@@ -38,7 +38,7 @@ echo "4. Start iperf UDP at current Time:".$current_time
 echo $sudoPW | sudo -S tcpdump -i eno1 -s 96 -w ./$dirname/"iperf_udp_"$current_time".pcap" &
 tcpdump_pid=$!
 
-iperf3 -c $server -i1 -t 10 -u -b300Mb -R >> ./$dirname/"iperf_udp_"$current_time".log"
+iperf3 -c $server -i1 -t 100 -u -b300Mb -R >> ./$dirname/"iperf_udp_"$current_time".log"
 
 #echo $sudoPW | sudo -S kill -9 $tcpdump_pid
 echo $sudoPW | sudo -S killall "tcpdump"
