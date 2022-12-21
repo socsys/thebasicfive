@@ -1,5 +1,6 @@
 #!/bin/bash
-sudoPW="snuc"
+
+sudoPW=""
 
 server="35.242.187.72"		#Google Server London
 ping_duration=600

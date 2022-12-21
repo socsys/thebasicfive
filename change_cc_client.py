@@ -3,10 +3,10 @@ import sys
 import json
 import re
 
-UDP_IP = "starsurrey.duckdns.org"
+UDP_IP = "starsurrey-es.duckdns.org"
 UDP_PORT = 1501
 
-changeRequest = {"sTerminal":"Alan's Node", "cc":str(sys.argv[1])}
+changeRequest = {"sTerminal":"bcn's Node", "cc":str(sys.argv[1])}
 changeRequest_ = json.dumps(changeRequest)
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
